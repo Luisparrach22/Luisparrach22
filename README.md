@@ -110,9 +110,7 @@ n8n automation, Docker containers<br/>& Linux environments
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luisparrach22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=1800" alt="GitHub Stats" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luisparrach22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=Luisparrach22&theme=flat&row=1&column=6&margin-w=15&background=0d1117" alt="GitHub Trophies" />
 
 <br/><br/>
 
