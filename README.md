@@ -110,10 +110,6 @@ n8n automation, Docker containers<br/>& Linux environments
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luisparrach22&theme=flat&row=1&column=6&margin-w=15&background=0d1117" alt="GitHub Trophies" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisparrach22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
