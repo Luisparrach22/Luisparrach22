@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Luis Parrach
+# 👋 Luis Parra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Software+Engineer;Scalable+Backend+%26+Mobile+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Software+Engineer+%7C+Backend+%26+Mobile+Architecture)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,26 +11,39 @@
 ## About Me
 
 ```yaml
-name: Luis Parrach
+name: Luis Parra
 role: Software Engineer
 focus:
   - Backend Architecture & Microservices
   - Mobile Application Development (iOS / Cross-Platform)
-  - Database Management & Optimization
+  - Database Design & Optimization
   - Workflow Automation & DevOps
 ```
 
 ---
 
-## Technical Overview
+## What I Do
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280" alt="Developer Animation" />
+<br/>
 
-<br/><br/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<br/>
+
+```text
+ ╔══════════════════════════════════════╗
+ ║                                      ║
+ ║   > Designing scalable backends      ║
+ ║   > Building mobile experiences      ║
+ ║   > Automating workflows             ║
+ ║   > Shipping production code         ║
+ ║                                      ║
+ ╚══════════════════════════════════════╝
+```
+
+<br clear="all"/>
 
 <br/>
 
@@ -38,23 +51,23 @@ focus:
 <tr>
 <td align="center" width="33%">
 
-**Software Architecture**
+**Architecture**
 
-Design of scalable systems,<br/>microservices, and robust APIs
-
-</td>
-<td align="center" width="33%">
-
-📱 **Mobile Development**
-
-Native iOS apps with Swift<br/>and cross-platform with Flutter
+Scalable systems, microservices<br/>and well-documented APIs
 
 </td>
 <td align="center" width="33%">
 
-**Automation & DevOps**
+📱 **Mobile**
 
-Intelligent workflows with n8n,<br/>Linux environments & Docker
+iOS native with Swift<br/>& cross-platform with Flutter
+
+</td>
+<td align="center" width="33%">
+
+**DevOps**
+
+n8n automation, Docker containers<br/>& Linux environments
 
 </td>
 </tr>
@@ -68,9 +81,7 @@ Intelligent workflows with n8n,<br/>Linux environments & Docker
 
 <div align="center">
 
-### Languages & Frameworks
-
-<br/>
+**Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,21 +89,13 @@ Intelligent workflows with n8n,<br/>Linux environments & Docker
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<br/>
-
-### Databases
-
-<br/>
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
-
-### Infrastructure & Tools
-
-<br/>
+**Infrastructure & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -107,29 +110,13 @@ Intelligent workflows with n8n,<br/>Linux environments & Docker
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisparrach22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisparrach22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luisparrach22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisparrach22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisparrach22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
----
-
-## Core Capabilities
-
-<div align="center">
-
-| Focus Area | Technologies & Tools |
-|------|-------------|
-| **Backend Architecture** | Java, Node.js, RESTful APIs, Microservices |
-| 📱 **Mobile Engineering** | Swift (iOS), Flutter (Cross-platform) |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **DevOps & Infrastructure** | Linux, Docker, Git |
-| **Automation** | n8n, Workflow Integration |
 
 </div>
 
@@ -151,6 +138,6 @@ Intelligent workflows with n8n,<br/>Linux environments & Docker
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Luisparrach22&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Luisparrach22&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 
 </div>
