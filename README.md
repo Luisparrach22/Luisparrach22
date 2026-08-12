@@ -2,7 +2,7 @@
 
 # 👋 Luis Parra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Software+Engineer+%7C+Backend+%26+Mobile+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Software+Developer+%7C+Backend+%26+Mobile+Development)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,12 @@
 
 ```yaml
 name: Luis Parra
-role: Software Engineer
+role: Software Developer
 focus:
-  - Backend Architecture & Microservices
+  - Backend Development & Microservices
   - Mobile Application Development (iOS / Cross-Platform)
   - Database Design & Optimization
-  - Workflow Automation & DevOps
+  - Workflow Automation & Linux Environments
 ```
 
 ---
