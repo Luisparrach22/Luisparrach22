@@ -4,7 +4,7 @@
 <!--                        HERO SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Luis%20Parra&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Developer%20%E2%80%A2%20Backend%20%26%20Mobile&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Luis%20Parra&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Developer%20%7C%20Backend%20%26%2338%3B%20Mobile&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
 
 <br/>
 
