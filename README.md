@@ -8,7 +8,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+scalable+backend+architectures;Crafting+native+%26+cross-platform+mobile+apps;Designing+robust+database+solutions;Automating+workflows+that+save+hours)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+scalable+backend+architectures;Crafting+native+%26+cross-platform+mobile+apps;Designing+robust+database+solutions;Automating+workflows+that+save+hours" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -64,7 +66,7 @@ available_for: Freelance & Collaboration
 <br/><br/>
 <strong>Backend</strong>
 <br/>
-<sub>APIs escalables &<br/>microservicios robustos</sub>
+<sub>APIs escalables y<br/>microservicios robustos</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -73,7 +75,7 @@ available_for: Freelance & Collaboration
 <br/><br/>
 <strong>Mobile</strong>
 <br/>
-<sub>iOS nativo con Swift &<br/>cross-platform con Flutter</sub>
+<sub>iOS nativo con Swift y<br/>cross-platform con Flutter</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -82,7 +84,7 @@ available_for: Freelance & Collaboration
 <br/><br/>
 <strong>Databases</strong>
 <br/>
-<sub>Diseño, optimización<br/>& queries de alto rendimiento</sub>
+<sub>Diseño, optimización<br/>y queries de alto rendimiento</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -91,7 +93,7 @@ available_for: Freelance & Collaboration
 <br/><br/>
 <strong>Automation</strong>
 <br/>
-<sub>n8n workflows, Docker<br/>& entornos Linux</sub>
+<sub>n8n workflows, Docker<br/>y entornos Linux</sub>
 <br/><br/>
 </td>
 </tr>
@@ -108,18 +110,47 @@ available_for: Freelance & Collaboration
 ## &nbsp;⚙️ Tech Stack
 
 <div align="center">
-
 <br/>
-
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-
+<table>
+<tr>
+<td><strong>Category</strong></td>
+<td><strong>Technologies</strong></td>
+</tr>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+</td>
+</tr>
+<tr>
+<td><strong>Frameworks</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</td>
+</tr>
+<tr>
+<td><strong>DevOps</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</td>
+</tr>
+</table>
 <br/>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -132,18 +163,18 @@ available_for: Freelance & Collaboration
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisparrach22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luisparrach22&theme=github_dark&utcOffset=2" alt="Productive Time" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Luisparrach22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="49%" />
+<img src="https://raw.githubusercontent.com/Luisparrach22/Luisparrach22/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luisparrach22&theme=github_dark" alt="Contribution Graph" width="98%" />
+<img src="https://raw.githubusercontent.com/Luisparrach22/Luisparrach22/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution Graph" width="98%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luisparrach22&theme=github_dark" alt="GitHub Stats" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luisparrach22&theme=github_dark" alt="Repos per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luisparrach22&theme=github_dark" alt="Most Commit Language" width="32%" />
+<img src="https://raw.githubusercontent.com/Luisparrach22/Luisparrach22/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="32%" />
+<img src="https://raw.githubusercontent.com/Luisparrach22/Luisparrach22/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="32%" />
+<img src="https://raw.githubusercontent.com/Luisparrach22/Luisparrach22/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
 
 <br/>
 
